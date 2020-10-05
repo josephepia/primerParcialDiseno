@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Test/Parcial.Core.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/Parcial.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/Parcial.Core.Domain.csproj",
+        "projectName": "Parcial.Core.Domain",
+        "projectPath": "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/Parcial.Core.Domain.csproj",
+        "packagesPath": "/Users/josephepia/.nuget/packages/",
+        "outputPath": "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/josephepia/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Test/Parcial.Core.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Test/Parcial.Core.Test.csproj",
+        "projectName": "Parcial.Core.Test",
+        "projectPath": "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Test/Parcial.Core.Test.csproj",
+        "packagesPath": "/Users/josephepia/.nuget/packages/",
+        "outputPath": "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/josephepia/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/Parcial.Core.Domain.csproj": {
+                "projectPath": "/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/Parcial.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

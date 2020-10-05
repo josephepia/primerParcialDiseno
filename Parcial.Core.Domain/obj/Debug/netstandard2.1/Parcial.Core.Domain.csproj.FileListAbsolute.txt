@@ -1,0 +1,9 @@
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/bin/Debug/netstandard2.1/Parcial.Core.Domain.deps.json
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/bin/Debug/netstandard2.1/Parcial.Core.Domain.dll
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/bin/Debug/netstandard2.1/Parcial.Core.Domain.pdb
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/obj/Debug/netstandard2.1/Parcial.Core.Domain.csprojAssemblyReference.cache
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/obj/Debug/netstandard2.1/Parcial.Core.Domain.AssemblyInfoInputs.cache
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/obj/Debug/netstandard2.1/Parcial.Core.Domain.AssemblyInfo.cs
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/obj/Debug/netstandard2.1/Parcial.Core.Domain.csproj.CoreCompileInputs.cache
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/obj/Debug/netstandard2.1/Parcial.Core.Domain.dll
+/Users/josephepia/Projects/Parcial.Solucion/Parcial.Core.Domain/obj/Debug/netstandard2.1/Parcial.Core.Domain.pdb

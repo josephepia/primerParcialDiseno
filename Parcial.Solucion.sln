@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial.Core.Domain", "Parcial.Core.Domain\Parcial.Core.Domain.csproj", "{21389790-2200-409F-BCFB-843CA3889E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial.Core.Test", "Parcial.Core.Test\Parcial.Core.Test.csproj", "{9D59B4DC-9229-4A4C-99D8-C03AE83AFD37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21389790-2200-409F-BCFB-843CA3889E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21389790-2200-409F-BCFB-843CA3889E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21389790-2200-409F-BCFB-843CA3889E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21389790-2200-409F-BCFB-843CA3889E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D59B4DC-9229-4A4C-99D8-C03AE83AFD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D59B4DC-9229-4A4C-99D8-C03AE83AFD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D59B4DC-9229-4A4C-99D8-C03AE83AFD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D59B4DC-9229-4A4C-99D8-C03AE83AFD37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

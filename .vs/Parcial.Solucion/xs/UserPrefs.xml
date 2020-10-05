@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9D59B4DC-9229-4A4C-99D8-C03AE83AFD37}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parcial.Core.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="Parcial.Core.Domain/Class1.cs" Line="9" Column="1" />
+      <File FileName="Parcial.Core.Test/UnitTest1.cs" Line="9" Column="10" />
+      <File FileName="Parcial.Core.Domain/Persona.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Parcial.Solucion" expanded="True">
+            <Node name="Parcial.Core.Domain" expanded="True" />
+            <Node name="Parcial.Core.Test" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Parcial.Core.Test PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
